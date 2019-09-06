@@ -1,6 +1,6 @@
 import turtle
 turtle.color("red")
-turtle.speed(2)
+turtle.speed(14)
 turtle.bgcolor("black")
 def square(sidelength):
     for i in range(9):
